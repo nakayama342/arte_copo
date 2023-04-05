@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://arte2008.com/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-03-23T16:18:59+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-03-23T16:18:59+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/content.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-17T18:51:28+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/service.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-01T11:03:55+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/location.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-01T11:03:55+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/preparation.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-01T11:03:55+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/privacy.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-01T11:03:55+09:00</lastmod>
+</url>
+<url>
+  <loc>http://arte2008.com/Inquiry.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-14T17:26:30+09:00</lastmod>
+</url>
+
+</urlset>
